@@ -1,3 +1,5 @@
+this was a small test to call the contentful api and render a few blog posts to the screen. it uses tailwind to style the blog posts
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
